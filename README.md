@@ -9,7 +9,7 @@ https://dl.dropboxusercontent.com/u/78759362/OM%20NATIONAL%20RELEASE/om-source.t
 
 Omining Pools
 1. http://www.mineblocks.eu/getting_started
-2. https://www.cryptopia.co.nz/Mineshaft
+2. https://www.cryptopia.co.nz/Mineshaft (Soon, I try)
 
 Exchanges
 1. Cryptopia (February 2017)
