@@ -1,7 +1,5 @@
 # Om
 
-By Christ.
-
 Source Code - https://dl.dropboxusercontent.com/u/78759362/OM%20NATIONAL%20RELEASE/om-source.tar.gz
 
 Omining Pools
@@ -14,5 +12,3 @@ Exchanges
 Forum - http://theologer.forumactif.com/f13-om-currency
 
 Twitter - https://twitter.com/omcurrency
-
-Blog - http://yhwh1972.blogspot.fr/
