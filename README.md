@@ -12,7 +12,7 @@ Omining Pools
 2. https://www.cryptopia.co.nz/Mineshaft
 
 Exchanges
-1. Cryptopia (February 2016)
+1. Cryptopia (February 2017)
 https://www.cryptopia.co.nz/Exchange/?market=OOO_BTC
 
 Forum:
