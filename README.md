@@ -15,8 +15,8 @@ Exchanges
 1. Cryptopia (February 2017)
 https://www.cryptopia.co.nz/Exchange/?market=OOO_BTC
 
-Forum:
-http://theologer.forumactif.com/f13-om-currency
+The Mother Blog:
+http://yhwh1972.blogspot.fr/
 
 Twitter
 https://twitter.com/omcurrency
