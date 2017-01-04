@@ -1,4 +1,4 @@
-# Om-Project
+# Om
 
 By Christ.
 
@@ -11,8 +11,8 @@ Omining Pools
 Exchanges
 1. Cryptopia (February 2017) https://www.cryptopia.co.nz/Exchange/?market=OOO_BTC (I will be on it later)
 
-The Mother Blog - http://yhwh1972.blogspot.fr/
-
 Forum - http://theologer.forumactif.com/f13-om-currency
 
 Twitter - https://twitter.com/omcurrency
+
+Blog - http://yhwh1972.blogspot.fr/
