@@ -12,3 +12,7 @@ Exchanges
 Forum - http://theologer.forumactif.com/f13-om-currency
 
 Twitter - https://twitter.com/omcurrency
+
+A professional coder is needed, and will be hired if possible,
+to code the block explorer, named just: The Eruptor.
+(Minimalist Black&White Design, plus a Cross)
