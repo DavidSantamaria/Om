@@ -8,7 +8,7 @@ Omining Pools
 3. https://www.cryptopia.co.nz/Mineshaft (I am on it)
 
 Exchanges
-1. NovaExcahnge (Vote) https://novaexchange.com/addcoin/
+1. NovaExchange (Vote) https://novaexchange.com/addcoin/
 2. Cryptopia (February 2017) https://www.cryptopia.co.nz/Exchange/?market=OOO_BTC (I will be on it later)
 
 Forum - http://theologer.forumactif.com/f13-om-currency
