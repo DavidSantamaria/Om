@@ -1,13 +1,7 @@
 # Om
-Om Micro Currency's [ANN] https://bitcointalk.org/index.php?topic=1688319.0
+Om Micro Currency [ANN] https://bitcointalk.org/index.php?topic=1688319.0
 
-Exchanges:
-1. Cryptopia https://www.cryptopia.co.nz/Exchange/?market=OOO_BTC
-2. NovaExchange (Vote) https://novaexchange.com/addcoin/ 
-
-Omining Pools:
-1. http://www.mineblocks.eu/getting_started
-2. http://theminingpool.mine.nu/getting_started
+API - https://www.blockexperts.com/ooo/api
 
 Forum - http://theologer.forumactif.com/f13-om-currency
 
