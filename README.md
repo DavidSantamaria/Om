@@ -1,5 +1,5 @@
-# Om
-Om Micro Currency - https://bitcointalk.org/index.php?topic=1688319.0
+# Om | For Christianity and, all arts.
+[ANN] https://bitcointalk.org/index.php?topic=1688319.0
 
 API - https://www.blockexperts.com/ooo/api
 
