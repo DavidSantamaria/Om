@@ -10,12 +10,6 @@ https://www.blockexperts.com/ooo/api
 Site
 https://davidsantamaria.github.io/Om/
 
-Discord
-https://discord.gg/Ug4wVfSvFH
-
-Downloads
-Windows / Linux
-
 Om-Qt-OSX-v1000
 https://1drv.ms/u/s!AnfxPZJvnghviPM3XigCNwOLx3VdJg
 
